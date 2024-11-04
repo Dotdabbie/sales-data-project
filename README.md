@@ -25,6 +25,11 @@ In this project, we conducted an Exploratory Data Analysis (EDA) on retail sales
 
 
 
+### DATA SOURCE
+
+The primary dataset used for this analysis is the "LITA Capstone Dataset_XLSX".
+
+
 
 ### EDA Steps and Insights:
 1. Data Cleaning and Preparation
