@@ -137,9 +137,21 @@ having sum(quantity)=0;
 
 
 ### Result
-- A fluantuation  was observed in the monthly sales trend of 2023 and 2024
-- -Shirt was the highest selling, generating most sales from the South region.
-- hat was observed to have the highest count sales but it ranks third in sum of total revenue generated
+**Sales Fluctuations:**
+
+- Notable fluctuations were observed in the monthly sales trends for both 2023 and 2024. These variations could be attributed to seasonal demand changes, promotional activities, or market conditions.
+Top Selling Products:
+
+**Shirts:**
+
+- Shirts emerged as the highest-selling product, generating the most sales overall.
+The South region was identified as the primary contributor to shirt sales, reflecting strong demand in this area.
+
+
+**Hats:**
+
+- Hats recorded the highest count in sales transactions, indicating a high volume of purchases.
+Despite the high sales count, hats ranked third in total revenue generated. This suggests a lower price point compared to shirts or the influence of discounts on overall sales.
 
 ### Recommendation
 
