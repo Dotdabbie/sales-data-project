@@ -51,9 +51,24 @@ Generated summary statistics to understand the distribution of key metrics like 
 
 
 ### Tools Used:
+-**Excel Analysis:** 
+
+-[download here](https://microsoft.com)
+
 - Excel: Used pivot tables and charts for initial data exploration.
+
+
+-**SQL Queries:** 
+
+-[download here](https://microsoft.com)
+
 - SQL: Queried the data to compute critical metrics like total sales, top customers, and percentage contribution by region.
-- Power BI: Built an interactive dashboard for visual storytelling and real-time analysis.
+
+-**Power BI Dashboard:** 
+
+-[download here](https://microsoft.com)
+
+The final deliverable Built an interactive dashboard for visual storytelling and real-time analysis, designed to visualize sales segments, Monthly sales trends, total revenue, region e.t.c. Key performance indicators (KPI cards) highlighted essential metrics like total revenue, top regions for sales,
 
 
 ### data analysis queries:
