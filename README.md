@@ -20,6 +20,9 @@ In this project, we conducted an Exploratory Data Analysis (EDA) on retail sales
 ![IMG_20241104_223142_367](https://github.com/user-attachments/assets/c3aac13f-ab8b-4378-acda-b39477f94db1)
 
 
+![image Description](images/IMG_20241104_223142_367.jpg)
+
+
 
 ![IMG_20241104_223537_805](https://github.com/user-attachments/assets/176e3855-cc19-4eaf-8c43-4283fc400efb)
 
